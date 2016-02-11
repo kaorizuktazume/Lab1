@@ -1,0 +1,6 @@
+c:\users\ww\documents\visual studio 2012\Projects\primes\primes\bin\Debug\primes.exe.config
+c:\users\ww\documents\visual studio 2012\Projects\primes\primes\bin\Debug\primes.exe
+c:\users\ww\documents\visual studio 2012\Projects\primes\primes\bin\Debug\primes.pdb
+c:\users\ww\documents\visual studio 2012\Projects\primes\primes\obj\Debug\primes.csprojResolveAssemblyReference.cache
+c:\users\ww\documents\visual studio 2012\Projects\primes\primes\obj\Debug\primes.exe
+c:\users\ww\documents\visual studio 2012\Projects\primes\primes\obj\Debug\primes.pdb
